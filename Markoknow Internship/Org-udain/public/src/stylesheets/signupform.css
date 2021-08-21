@@ -1,0 +1,52 @@
+.Signup_Form{
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    font-family: 'Open Sans', sans-serif!important;
+}
+
+.signup_form{
+    width: 100%;
+    margin: auto;
+}
+
+.signup_form > h3{
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+    cursor: pointer!important;
+}
+
+.error{
+    color: red;
+}
+
+.Box{
+    margin-top: 4rem;
+}
+
+.Box_type{
+    width: 85%!important;
+}
+
+.Alert_type{
+    width: 90%!important;
+    margin: auto!important;
+}
+
+@media only screen and (min-width: 420px){
+    .Box_type{
+        width: 25rem!important;
+    }
+}
+
+.Alert_type{
+    margin-bottom: 0.5rem!important;
+}
+
+@media only screen and (min-width: 420px){
+    .Alert_type{
+        width: 26rem!important;
+    }
+}

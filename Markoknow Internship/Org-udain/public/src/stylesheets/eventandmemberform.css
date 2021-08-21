@@ -1,0 +1,135 @@
+.Membership_form{
+    margin-bottom: 2rem;
+    margin-top: 5rem;
+    font-family: 'Open Sans', sans-serif!important;
+}
+
+.member_ship{
+    margin-top: 5rem;
+    width: 100%;
+    margin: auto;
+}
+
+.member_ship > h2{
+    text-align: center;
+}
+
+.buttons{
+    cursor: pointer!important;
+    margin-left: 20%!important;
+    margin-right: 20%!important;
+}
+
+.btn{
+    width: 100%;
+    height: 34px;
+    background-color:rgb(82, 239, 218);
+    font-weight: 900;
+    font-stretch: ultra-expanded;
+    cursor: pointer;
+}
+
+.Box{
+    margin-top: 4rem;
+}
+
+/* Event Creation Form */
+
+.Event_form{
+    margin-bottom: 2rem;
+}
+
+.form_event{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    background-color: #befaf2;
+    margin-top: 30px!important;
+    margin: auto;
+    width:30rem!important;
+    height: 12rem!important;
+    padding-left:5px!important;
+    border: 2px solid black;
+}
+
+.message{
+    margin-top: auto!important;
+    margin-bottom: auto!important;
+    color: green;
+    text-align: center!important;
+    font-weight: 600; 
+}
+
+.message2{
+    margin-top: auto!important;
+    margin-bottom: auto!important;
+    text-align: center!important;
+    font-weight: 600; 
+}
+
+.form_event_2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    background-color: #befaf2;
+    margin-top: 30px!important;
+    margin: auto;
+    width:30rem!important;
+    height: 19rem!important;
+    padding-left:5px!important;
+    border: 2px solid black;
+}
+
+@media only screen and (max-width: 420px){
+    .form_event{
+        width: 20rem!important;
+    }
+
+    .form_event_2{
+        width: 20rem!important;
+    }
+}
+
+/* Event Creation Form */
+
+.Box_type{
+    margin-bottom: 6rem!important;
+}
+
+.member_box{
+    margin-bottom: 20px!important;
+}
+
+
+@media only screen and (min-width: 420px){
+    .Box_type{
+        width: 25rem!important;
+        margin-bottom: inherit!important;
+        padding-left: 25px!important;
+        padding-right: 25px!important;
+    }
+    .apply_head{
+        font-size: 1.7rem;
+    }
+}
+
+
+/* popup css */
+.simple-modal-desc{
+    font-size: 12px!important;
+    font-weight: 550!important;
+}
+
+
+/* .Box_type_event{
+    margin-bottom: 5rem!important;
+    margin-top: 4rem!important;
+}
+
+@media only screen and (min-width: 420px){
+    .Box_type_event{
+        width: 25rem!important;
+        margin-bottom: inherit!important;
+        margin-top: 5rem!important;
+    }
+} */

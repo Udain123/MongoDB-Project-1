@@ -1,0 +1,31 @@
+.Login_Form{
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    font-family: 'Open Sans', sans-serif!important;
+}
+
+.login_form{
+    width: 100%;
+    margin: auto;
+}
+
+.login_form > h3{
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+    cursor: pointer!important;
+}
+
+.error{
+    color: red;
+}
+
+.Box{
+    margin-top: 4rem;
+}
+
+.not_member{
+    font-size: 0.8rem!important;
+}
