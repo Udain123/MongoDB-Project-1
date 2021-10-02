@@ -1,2 +1,0 @@
-Organisedoc is a folder for keeping document uploaded by filling organiseevent form and sponsor event form.
-document automatically deleted after 40 sec.
